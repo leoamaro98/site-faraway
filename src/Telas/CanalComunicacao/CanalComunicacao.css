@@ -1,0 +1,58 @@
+.canalcominicacao {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.canalcominicacao img {
+    margin-bottom: 32px;
+    width: 30%;
+}
+
+.canalcominicacao p {
+    width: 80%;
+    margin: 10px auto;
+    color: white;
+    line-height: 1.875em;
+    font-size: 18px;
+    font-weight: 400;
+
+
+
+}
+
+.btn {
+    margin: 12px 0 48px 0;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    border-radius: 20px;
+    font-weight: 500;
+
+}
+
+
+.displayNone {
+    display: none;
+}
+
+
+#container-psi{
+    margin: 0 auto;
+    width: 80%;
+}
+
+#psi{
+    position: absolute;
+    width: 80%;
+    height: 600px;
+}
+
+#container-psi Button{
+    margin: 24px;
+    display: block;
+    background-color: red;
+    position: relative;
+    left:90%
+
+}

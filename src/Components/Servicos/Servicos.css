@@ -1,0 +1,53 @@
+.container-servicos {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px 80px;
+    transition: 0.5s;
+}
+
+
+.container-servicos h1 {
+    text-align: center;
+    line-height: 1.41em;
+    font-size: 32px;
+    padding-bottom: 12px;
+    font-weight: 700;
+
+}
+
+.container-servicos p {
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+.container-servicos img {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 24px;
+}
+
+.container-servicos Button {
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+
+}
+
+.container-servicos:hover{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: rgba(112, 104, 104, 0.6);
+
+}
+
+a {
+    color: white;
+
+    text-decoration: none;
+}
+

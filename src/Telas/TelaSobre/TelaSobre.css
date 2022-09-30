@@ -1,0 +1,44 @@
+.container-sobre {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.container-imgsobre {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container-imgsobre img {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sobre {
+    margin-top: 48px;
+}
+
+
+
+.sobre h1{
+    color: #f37135;
+
+}
+
+.sobre h2{
+    font-size: 22px;
+    color:whitesmoke;
+}
+
+
+.sobre h3 {
+    color: #f37135;
+    margin-top: 32px;
+    font-size: 26px;
+
+}
+.sobre p{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}

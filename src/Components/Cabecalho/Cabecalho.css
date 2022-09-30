@@ -1,0 +1,19 @@
+
+.container-header{
+    background-color: black;
+
+}
+
+.cabecalho {
+    width: 100%;
+    height: 100px;
+}
+
+.linha {
+    width: 90%;
+    border-bottom: 2px solid white;
+    top: 95px;
+    margin: 0 auto;
+    position: relative;
+
+}

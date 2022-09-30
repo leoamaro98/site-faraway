@@ -1,0 +1,79 @@
+.tela-servico Button{
+    background-color: black;
+    color: white;
+}
+
+
+/* ##################################################TERCEIRIZAÇÂO TI ######################################################################*/
+
+.container-servico-gerenciati, .container-servico-privsec {
+    display: flex;
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container-img img, .container-img-sec img {
+    width: 700px;
+    height: auto;
+    border-radius: 15px;
+
+}
+
+.servico-gerenciati, .servico-privsec {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.servico-gerenciati h1, .servico-privsec h1 {
+    margin: 48px auto;
+    color: rgb(231, 127, 63);
+
+
+}
+
+.servico-gerenciati li, .servico-privsec li {
+    margin: 32px auto;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* ##################################################DIV CONSULTORIA PROT##########################################################################*/
+
+.container-servico-consultoriaProt {
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.container-img-erp img{
+    width: 100%;
+    height: 550px;
+    border-radius: 15px;
+}
+.servico-consultoriaProt{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.servico-consultoriaProt h1{
+    margin: 48px auto;
+    color: rgb(231, 127, 63);
+
+
+}
+
+.servico-consultoriaProt li {
+    margin: 32px auto;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+span{
+    font-weight: 700;
+}
+
+/* ##################################################DIV CONSULTORIA PROT##########################################################################*/

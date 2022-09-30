@@ -1,0 +1,61 @@
+.menu {
+    border: none;
+    box-shadow: none;
+    background-color: black;
+    text-align: none;
+    width: 80%;
+    height: 250px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+
+.nav-link {
+    color: black;
+    font-weight: 600;
+}
+
+
+.menu a {
+    color: white;
+}
+
+.menu ul {
+    position: relative;
+    float: right;
+
+}
+
+.container-logo {
+    display: flex;
+}
+
+
+.menu img {
+    height: 130px;
+    width: 130px;
+    margin-left: 120px;
+}
+
+.nome-logo-fw {
+    margin-top: 5%;
+    font-weight: 700;
+    color: white;
+
+
+}
+
+#select-servicos{
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 0;
+}
+
+#linkedinicon,#wppicon{
+    width: 32px;
+    height: 32px;
+    margin: 0;
+}
