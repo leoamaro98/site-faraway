@@ -13,19 +13,19 @@ import "./Carousel.css"
 
 const items = [
   {
-    src: '/imagens/wpp-banner-fw.png',
+    src: '/Imagens/wpp-banner-fw.png',
     altText: '1',
     caption: 'Faraway Tecnologia',
     key: 1,
   },
   {
-    src: '/imagens/wpp-padrao.jpg',
+    src: '/Imagens/wpp-padrao.jpg',
     altText: '2',
     caption: 'Faraway Tecnologia',
     key: 2,
   },
   {
-    src: '/imagens/wpp-ciber.jpg',
+    src: '/Imagens/wpp-ciber.jpg',
     altText: '3',
     caption: 'Faraway Tecnologia',
     key: 3,

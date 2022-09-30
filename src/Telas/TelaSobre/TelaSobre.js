@@ -11,7 +11,7 @@ const Sobre = () => {
 
         <div className="container-sobre">
             <div className="container-imgsobre">
-                <img src="/imagens/logo-horizontal-branca.png"></img>
+                <img src="/Imagens/logo-horizontal-branca.png"></img>
             </div>
 
             <div className="sobre">

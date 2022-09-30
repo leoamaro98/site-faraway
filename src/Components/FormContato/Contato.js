@@ -68,7 +68,7 @@ const Contato = () => {
                     </FormGroup>
                 </form >
             </div>
-            <img src="./imagens/contato.png" />
+            <img src="./Imagens/contato.png" />
         </div>
 
     );

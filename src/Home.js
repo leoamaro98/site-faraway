@@ -41,14 +41,14 @@ function Home() {
 
       <div className='container-clientes'>
 
-        <Clientes link="https://gauss.com.br/" empresa="Gauss Indústria Auto-Peças" src="./imagens/LOGO_GAUSS.png" />
-        <Clientes link="https://gauss.com.br/" empresa="CDG Logística" src="./imagens/LOGO_CDG.png" />
-        <Clientes link="https://gauss.com.br/" empresa="NSG Logística" src="./imagens/LOGO_NSG.png" />
+        <Clientes link="https://gauss.com.br/" empresa="Gauss Indústria Auto-Peças" src="./Imagens/LOGO_GAUSS.png" />
+        <Clientes link="https://gauss.com.br/" empresa="CDG Logística" src="./Imagens/LOGO_CDG.png" />
+        <Clientes link="https://gauss.com.br/" empresa="NSG Logística" src="./Imagens/LOGO_NSG.png" />
       </div>
       <div className='container-clientes'>
-        <Clientes link="https://gauss.com.br/" empresa="NSG Logística" src="./imagens/LOGO_SPG.png" />
-        <Clientes link="https://brpaving.com.br" empresa="BR Paving" src="./imagens/brpavin.png" />
-        <Clientes link="https://lc1contadores.com.br" empresa="LC1 Contados Associados" src="./imagens/lc1.png" />
+        <Clientes link="https://gauss.com.br/" empresa="NSG Logística" src="./Imagens/LOGO_SPG.png" />
+        <Clientes link="https://brpaving.com.br" empresa="BR Paving" src="./Imagens/brpavin.png" />
+        <Clientes link="https://lc1contadores.com.br" empresa="LC1 Contados Associados" src="./Imagens/lc1.png" />
       </div>
 
       <DivPadrao titulo="Fale Conosco"

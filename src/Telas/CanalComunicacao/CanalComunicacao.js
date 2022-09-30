@@ -18,7 +18,7 @@ const CanalComunicacao = () => {
         <div id="container-psi" className="displayNone" >
         <Button onClick={abrePSI}>Fechar</Button>
 
-            <iframe id="psi" src="./imagens/psi-faraway.pdf"></iframe>
+            <iframe id="psi" src="./Imagens/psi-faraway.pdf"></iframe>
         </div>
 
         <div className="canalcominicacao">

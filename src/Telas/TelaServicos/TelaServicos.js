@@ -11,7 +11,7 @@ const TelaServicos = () => {
         <Cabecalho/>
         <div className="container-servico-gerenciati">
             <div className="container-img">
-                <img src="/imagens/gerenciamentoti.png"></img>
+                <img src="/Imagens/gerenciamentoti.png"></img>
             </div>
             <div className="servico-gerenciati">
                 <h1>Gerenciamento de TI</h1>
@@ -39,7 +39,7 @@ const TelaServicos = () => {
 
         <div className="container-servico-consultoriaProt">
             <div className="container-img-erp">
-                <img src="/imagens/consult-wild.png"></img>
+                <img src="/Imagens/consult-wild.png"></img>
             </div>
             <div className="servico-consultoriaProt">
                 <h1>Consultoria ERP Totvs Protheus</h1>
@@ -94,7 +94,7 @@ const TelaServicos = () => {
                 <Button>Falar com Consultor</Button>
             </div>
             <div className="container-img-sec">
-                <img src="/imagens/secwild.png"></img>
+                <img src="/Imagens/secwild.png"></img>
             </div>
         </div>
 
